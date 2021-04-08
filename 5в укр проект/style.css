@@ -1,0 +1,31 @@
+.fig {
+    box-align: center; /* Выравнивание по центру */ 
+   }
+.header img {
+    width: 100px;
+    height: 100px;
+}
+.header {
+    padding: 100px;
+    margin: 0 auto;
+    text-align: right;
+    color: #000000
+}
+.text{
+    text-align:right;
+    text-transform: uppercase;
+    color:#ff0000
+}
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    background-color: darkgrey;
+}
+.stroke {
+    font: 2em Arial, sans-serif;
+    text-shadow: red 0 0 2px;
+}
+.title {
+    text-transform: uppercase;
+    color:#ff0000
+}
